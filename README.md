@@ -7,7 +7,7 @@ You can install the program using the following command:
 ```bash
 cargo install ez9
 ```
-or you can download the binary from the [release page](
+or you can download the binary from the [release page](https://github.com/adlsdztony/ez9/releases)
 
 ## Usage
 To run it directly, use the following command:
