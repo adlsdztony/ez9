@@ -8,7 +8,7 @@ description = "A command line tool for cutting images into 9 equal parts for wec
 readme = "README.md"
 homepage = "https://github.com/adlsdztony/ez9"
 repository = "https://github.com/adlsdztony/ez9"
-keywords = ["wechat", "pyq", "image", "cut", "wechat moments"]
+keywords = ["wechat", "pyq", "image", "cut", "moments"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
